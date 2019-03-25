@@ -1,3 +1,5 @@
+#Pig Latin transaltor Version 0.1
+
 #My imports
 import tkinter as tk
 
